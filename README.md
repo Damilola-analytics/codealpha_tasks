@@ -1,44 +1,71 @@
-CodeAlpha Data Analytics Internship 
+# CodeAlpha Data Analytics Internship
 
-Welcome to my CodeAlpha Data Analytics Internship repository.
+Welcome to my **CodeAlpha Data Analytics Internship** repository.
 
 This repository showcases my completed internship projects, demonstrating practical skills in Python programming, web scraping, data cleaning, exploratory data analysis and data visualization.
 
-📁 Internship Projects Task 1: Web Scraping 
+## 📁 Internship Projects
 
-Objective: Collect and extract information from a website using Python.
+### Task 1: Web Scraping
 
-Tools and Libraries:
+**Objective:** Collect and extract information from a website using Python.
 
-Python Jupyter Notebook Requests BeautifulSoup Pandas 
+**Tools and Libraries:**
+- Python
+- Jupyter Notebook
+- Requests
+- BeautifulSoup
+- Pandas
 
-Project Outcome:
+**Project Outcome:**
 
 Successfully scraped 100 quotes from a website and saved the extracted information in CSV format.
 
-Project Files: View Task 1: Web Scraping
+**Project Files:** [View Task 1: Web Scraping](./Task-1-Web-Scraping/)
 
-Task 2: Exploratory Data Analysis (EDA) 
+---
 
-Objective: Analyse an Online Retail dataset to identify business trends, patterns and actionable insights.
+### Task 2: Exploratory Data Analysis (EDA)
 
-Tools and Libraries:
+**Objective:** Analyse an Online Retail dataset to identify business trends, patterns and actionable insights.
 
-Python Jupyter Notebook Pandas NumPy Matplotlib Seaborn 
+**Tools and Libraries:**
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-Areas of Analysis:
+**Areas of Analysis:**
+- Sales performance and revenue trends
+- Product performance
+- Geographical sales distribution
+- Customer purchasing behaviour
+- Repeat customer analysis
+- Time-based sales patterns
 
-Sales performance and revenue trends Product performance Geographical sales distribution Customer purchasing behaviour Repeat customer analysis Time-based sales patterns 
+**Project Files:** [View Task 2: Exploratory Data Analysis](./Task-2-Exploratory-Data-Analysis/)
 
-Project Files: View Task 2: Exploratory Data Analysis
+---
 
-🛠️ Skills Demonstrated Data Collection and Web Scraping Data Cleaning and Preparation Exploratory Data Analysis Data Visualization Business Insight Generation Python Programming 👨‍💻 Author 
+## 🛠️ Skills Demonstrated
 
-Adejumo Damilola
+- Data Collection and Web Scraping
+- Data Cleaning and Preparation
+- Exploratory Data Analysis
+- Data Visualization
+- Business Insight Generation
+- Python Programming
+
+## 👨‍💻 Author
+
+**Adejumo Damilola**
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-GitHub Profile: Damilola-analytics
+**GitHub Profile:** [Damilola-analytics](https://github.com/Damilola-analytics)
+
+---
 
 This repository documents my practical learning, technical development and project experience during the CodeAlpha Data Analytics Internship.
-
